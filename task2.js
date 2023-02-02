@@ -7,6 +7,4 @@ const server = http.createServer((req, res) => {
     console.log('Anshika');
 })
 
-server.listen(4000, () => {
-    console.log('Anshika');
-});
+server.listen(4000);
